@@ -24,6 +24,10 @@ $fonte-2: 'Aref Ruqaa', serif;
     line-height: rem(30, 18);
 }
 
+@mixin box-shadow($shadow...) {
+    box-shadow: $shadow;
+}
+
 .testando {
     @include tipo-2(18)
 }
