@@ -14,7 +14,9 @@ O foco do site foi a constância em formas simples, para isso foi utilizado um g
 <h2>👨🏻‍💻 Tecnologias</h2>
 
 <h3>HTML</h3>
+
 Utilizado para criar a estrutura de forma semântica.
 
 <h3>SCSS</h3>
+
 Utilizado para facilitar o desenvolvimento e a constância do design. Também foi fundamental para fazer o grid layout de 12 colunas utilizado.
